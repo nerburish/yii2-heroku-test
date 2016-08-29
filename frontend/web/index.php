@@ -8,11 +8,13 @@ require(__DIR__ . '/../../vendor/autoload.php');
 // Environment
 require(__DIR__ . '/../../common/env.php');
 
-echo "prueba";
-exit;
+
 
 // Yii
 require(__DIR__ . '/../../vendor/yiisoft/yii2/Yii.php');
+
+echo "prueba3";
+exit;
 
 // Bootstrap application
 require(__DIR__ . '/../../common/config/bootstrap.php');
