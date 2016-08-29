@@ -1,4 +1,8 @@
 <?php
+
+echo "prueba";
+exit;
+
 // Composer
 require(__DIR__ . '/../../vendor/autoload.php');
 
